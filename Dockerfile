@@ -1,4 +1,4 @@
-FROM ANL0KE/catuserbot:alpine
+FROM JAI6H/ICSS:alpine
 
 #clonning repo 
 RUN git clone https://github.com/JAI6H/ICSS-USERBOT.git /root/userbot

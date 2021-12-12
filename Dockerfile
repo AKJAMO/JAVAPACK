@@ -1,7 +1,7 @@
 FROM ANL0KE/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/JAI6H/catuserbot.git /root/userbot
+RUN git clone https://github.com/JAI6H/ICSS-USERBOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
